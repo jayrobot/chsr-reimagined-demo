@@ -51,7 +51,7 @@
           <div class="top-section">
             <!-- logo -->
             <h1 class="logo" title="Center for Human Services Research"
-              style="background-image:url(assets/chsr_logo.jpg); margin-top:5px;height: 60px;width: 400px;"><img
+              style="background-image:url(../assets/chsr_logo.jpg); margin-top:5px;height: 60px;width: 400px;"><img
                 src="../assets/chsr_logo.jpg" width="400" height="47" alt="" /></h1>
             <div class="side-block">
               <div class="row">
