@@ -52,7 +52,7 @@
             <!-- logo -->
             <h2 class="logo" title="Center for Human Services Research"
               style="background-image:url(assets/chsr_logo.jpg); margin-top:5px;height: 60px;width: 400px;"><img
-                src="assets/chsr_logo.jpg" width="400" height="47" alt="" /></h2>
+                src="../assets/chsr_logo.jpg" width="400" height="47" alt="" /></h2>
             <div class="side-block">
               <div class="row">
 
@@ -109,7 +109,7 @@
             <div class="mask" style="height: 264px;">
               <ul>
                 <li style="display:block;"><a href="https://www.albany.edu/chsr/index.shtml" target="_blank">
-                    <img src="hpfiles/chsr_banner_top2.jpg" width="964" height="266" /></a></li>
+                    <img src="../hpfiles/chsr_banner_top2.jpg" width="964" height="266" /></a></li>
               </ul>
             </div>
           </div>
