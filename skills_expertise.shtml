@@ -178,7 +178,8 @@
 							</ul>
 							<p>
 								To learn more about our experience with any of these types of activities, please visit our
-								<a href="project_areas.shtml">project archive</a> or <a href="Contact_Us.shtml">contact us</a>.
+								<a class="paragraph-text-link" href="project_areas.shtml">project archive</a>
+								or <a class="paragraph-text-link" href="Contact_Us.shtml">contact us</a>.
 							</p>
 							<div style="padding-bottom: 5px;">
 							</div>
