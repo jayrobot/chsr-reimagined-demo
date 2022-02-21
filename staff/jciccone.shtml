@@ -121,7 +121,8 @@
       <div id="main">
         <div id="twocolumns">
           <div id="content">
-            <h1><img src="images/Headshots/jenny1.jpg" width="178" height="180" style="float: right;" />Jennifer Ciccone
+            <h1><img src="../images/headshots/jenny1.jpg" width="178" height="180" style="float: right;" />Jennifer
+              Ciccone
             </h1>
             <!-- news block -->
             <STYLE type="text/css">

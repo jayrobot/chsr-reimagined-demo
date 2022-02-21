@@ -122,7 +122,7 @@
         <div id="twocolumns">
           <div id="content">
             <h1>Ruth Lindenfelser</h1>
-            <h1><img src="images/Headshots/rlindenfelser_new.jpg" alt="Faculty Member" name="imgPhoto" width="203"
+            <h1><img src="../images/headshots/rlindenfelser_new.jpg" alt="Faculty Member" name="imgPhoto" width="203"
                 height="201" id="imgPhoto" style="float: right; margin: 0px 0px 12px 12px;" /></h1>
             <!-- news block -->
             <STYLE type="text/css">

@@ -121,7 +121,7 @@
       <div id="main">
         <div id="twocolumns">
           <div id="content">
-            <h1><strong><img src="images/Headshots/dcarner516.jpg" alt="Faculty Member" width="200" id="imgPhoto"
+            <h1><strong><img src="../images/headshots/dcarner516.jpg" alt="Faculty Member" width="200" id="imgPhoto"
                   style="float: right; margin: 0px 0px 12px 12px;" />Denise Carner</strong></h1>
             <!-- news block -->
             <STYLE type="text/css">

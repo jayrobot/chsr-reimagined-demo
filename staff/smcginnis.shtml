@@ -122,7 +122,7 @@
         <div id="twocolumns">
           <div id="content">
             <h1>Sandra McGinnis</h1>
-            <h1><img src="images/Headshots/SMcGinnis_08_2020.jpg" alt="Faculty Member" name="imgPhoto" width="216"
+            <h1><img src="../images/headshots/SMcGinnis_08_2020.jpg" alt="Faculty Member" name="imgPhoto" width="216"
                 height="170" id="imgPhoto" style="float: right; margin: 0px 0px 12px 12px;" /></h1>
             <!-- news block -->
             <STYLE type="text/css">

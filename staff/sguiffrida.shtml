@@ -121,7 +121,7 @@
       <div id="main">
         <div id="twocolumns">
           <div id="content">
-            <h1><img src="images/Headshots/sguiffrida.jpg" width="150" id="imgPhoto"
+            <h1><img src="../images/headshots/sguiffrida.jpg" width="150" id="imgPhoto"
                 style="float: right; margin: 0px 0px 12px 12px;" />Shana Guiffrida</h1>
 
 

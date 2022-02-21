@@ -122,8 +122,8 @@
         <div id="twocolumns">
           <div id="content">
             <h1><strong>Samantha Gerken</strong></h1>
-            <h1><img src="images/staff/sam_gerken.png" alt="Faculty Member" name="imgPhoto" width="200" height="200"
-                id="imgPhoto" style="float: right; margin: 0px 0px 12px 12px;" /></h1>
+            <h1><img src="../images/headshots/sam_gerken.png" alt="Faculty Member" name="imgPhoto" width="200"
+                height="200" id="imgPhoto" style="float: right; margin: 0px 0px 12px 12px;" /></h1>
 
             <!-- news block -->
             <STYLE type="text/css">

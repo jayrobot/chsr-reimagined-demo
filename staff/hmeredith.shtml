@@ -121,8 +121,8 @@
       <div id="main">
         <div id="twocolumns">
           <div id="content">
-            <h1><img src="images/staff/hollymeredith.jpg" alt="Faculty Member" name="imgPhoto" width="218" height="295"
-                id="imgPhoto" style="float: right; margin: 0px 0px 12px 12px;" />Holly Meredith</h1>
+            <h1><img src="../images/headshots/hollymeredith.jpg" alt="Faculty Member" name="imgPhoto" width="218"
+                height="295" id="imgPhoto" style="float: right; margin: 0px 0px 12px 12px;" />Holly Meredith</h1>
             <!-- news block -->
             <STYLE type="text/css">
               .text-place {

@@ -121,8 +121,8 @@
       <div id="main">
         <div id="twocolumns">
           <div id="content">
-            <h1><img src="images/staff/francis_colon.jpg" alt="Faculty Member" name="imgPhoto" width="181" height="215"
-                id="imgPhoto" style="float: right; margin: 0px 0px 12px 12px;" />
+            <h1><img src="../images/headshots/francis_colon.jpg" alt="Faculty Member" name="imgPhoto" width="181"
+                height="215" id="imgPhoto" style="float: right; margin: 0px 0px 12px 12px;" />
               <H1>Francis Colon</h1>
 
               <!-- news block -->

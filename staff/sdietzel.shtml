@@ -122,7 +122,7 @@
         <div id="twocolumns">
           <div id="content"><br />
             <h1>Susan Ehrhard-Dietzel</h1>
-            <h1><img src="images/Headshots/sdietzel516.jpg" alt="Faculty Member" name="imgPhoto" width="217"
+            <h1><img src="../images/Headshots/sdietzel516.jpg" alt="Faculty Member" name="imgPhoto" width="217"
                 height="219" id="imgPhoto" style="float: right; margin: 0px 0px 12px 12px;" /></h1>
             <!-- news block -->
             <STYLE type="text/css">

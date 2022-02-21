@@ -121,7 +121,7 @@
       <div id="main">
         <div id="twocolumns">
           <div id="content">
-            <h1><img src="images/Headshots/maileyray_new.jpg.png" alt="Faculty Member" name="imgPhoto" width="175"
+            <h1><img src="../images/headshots/maileyray_new.jpg.png" alt="Faculty Member" name="imgPhoto" width="175"
                 height="260" id="imgPhoto" style="float: right; margin: 0px 0px 12px 12px;" />
               <H1>Maile Ray</h1>
               <!-- news block -->

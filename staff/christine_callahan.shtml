@@ -121,7 +121,7 @@
       <div id="main">
         <div id="twocolumns">
           <div id="content">
-            <p style="font-size:21px;"><strong><img src="images/staff/c_callahan200x200.jpg" alt="Faculty Member"
+            <p style="font-size:21px;"><strong><img src="../images/headshots/c_callahan200x200.jpg" alt="Faculty Member"
                   name="imgPhoto" width="160" height="160" id="imgPhoto"
                   style="float: right; margin: 0px 0px 12px 12px;" />Christine Callahan<br />
               </strong></p>

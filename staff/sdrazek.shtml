@@ -121,7 +121,7 @@
       <div id="main">
         <div id="twocolumns">
           <div id="content">
-            <h1><img src="images/Headshots/sarahprofiledrazek.jpg" width="210" height="244"
+            <h1><img src="../images/headshots/sarahprofiledrazek.jpg" width="210" height="244"
                 style="float: right;" />Sarah Drazek</h1>
             <!-- news block -->
             <STYLE type="text/css">

@@ -121,7 +121,7 @@
       <div id="main">
         <div id="twocolumns">
           <div id="content">
-            <h1><strong><img style="float: right; margin: 0px 0px 12px 12px;" src="images/Headshots/RG_big.JPG"
+            <h1><strong><img style="float: right; margin: 0px 0px 12px 12px;" src="../images/headshots/RG_big.JPG"
                   alt="Faculty Member" id="imgPhoto" />Rose Greene</strong></h1>
 
             <!-- news block -->

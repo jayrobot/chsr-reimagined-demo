@@ -121,7 +121,8 @@
       <div id="main">
         <div id="twocolumns">
           <div id="content">
-            <h1><img src="images/Headshots/nahidwebsite3.jpg" width="169" height="300" style="float: right;" />Mir Nahid
+            <h1><img src="../images/headshots/nahidwebsite3.jpg" width="169" height="300" style="float: right;" />Mir
+              Nahid
               Mahmud</h1>
             <!-- news block -->
             <STYLE type="text/css">

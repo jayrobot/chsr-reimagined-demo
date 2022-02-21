@@ -121,7 +121,7 @@
       <div id="main">
         <div id="twocolumns">
           <div id="content">
-            <h1><img src="images/Headshots/ben1.jpg" alt="Faculty Member" name="imgPhoto" width="250" height="200"
+            <h1><img src="../images/headshots/ben1.jpg" alt="Faculty Member" name="imgPhoto" width="250" height="200"
                 id="imgPhoto" style="float: right; margin: 0px 0px 12px 12px;" />
               <H1>Ben Simmons</h1>
 

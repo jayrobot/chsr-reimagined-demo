@@ -121,7 +121,7 @@
       <div id="main">
         <div id="twocolumns">
           <div id="content">
-            <h1><img src="images/Headshots/CBarnes.JPG" alt="Faculty Member" name="imgPhoto" width="220" height="200"
+            <h1><img src="../images/headshots/CBarnes.JPG" alt="Faculty Member" name="imgPhoto" width="220" height="200"
                 id="imgPhoto" style="float: right; margin: 0px 0px 12px 12px;" /><strong>Camille Barnes</strong></h1>
             <!-- news block -->
             <STYLE type="text/css">

@@ -121,7 +121,7 @@
       <div id="main">
         <div id="twocolumns">
           <div id="content">
-            <h1><img src="images/Headshots/Corinne_Noble.JPG" alt="Faculty Member" name="imgPhoto" width="240"
+            <h1><img src="../images/headshots/Corinne_Noble.JPG" alt="Faculty Member" name="imgPhoto" width="240"
                 height="160" id="imgPhoto" style="float: right; margin: 0px 0px 12px 12px;" />Corinne Noble</h1>
             <!-- news block -->
             <STYLE type="text/css">

@@ -121,7 +121,7 @@
       <div id="main">
         <div id="twocolumns">
           <div id="content">
-            <h1><img src="images/Headshots/cpapas.jpg" alt="Faculty Member" width="250" height="168" id="imgPhoto"
+            <h1><img src="../images/headshots/cpapas.jpg" alt="Faculty Member" width="250" height="168" id="imgPhoto"
                 style="float: right; margin: 0px 0px 12px 12px;" />Chris Papas</h1>
 
 

@@ -121,8 +121,8 @@
       <div id="main">
         <div id="twocolumns">
           <div id="content">
-            <h1><img style="float: right; margin: 0px 0px 12px 12px;" src="images/Headshots/crobohn2.jpg" height="225"
-                width="185 " alt="Faculty Member" id="imgPhoto" />Cori Anne Robohn</h1>
+            <h1><img style="float: right; margin: 0px 0px 12px 12px;" src="../images/headshots/crobohn2.jpg"
+                height="225" width="185 " alt="Faculty Member" id="imgPhoto" />Cori Anne Robohn</h1>
 
 
             <!-- news block -->

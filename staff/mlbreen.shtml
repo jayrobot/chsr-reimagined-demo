@@ -121,7 +121,7 @@
       <div id="main">
         <div id="twocolumns">
           <div id="content">
-            <h1><img src="images/Headshots/mbreen_new2.jpg" name="imgPhoto" width="222" height="149" id="imgPhoto"
+            <h1><img src="../images/headshots/mbreen_new2.jpg" name="imgPhoto" width="222" height="149" id="imgPhoto"
                 style="float: right; margin: 0px 0px 12px 12px;" />Mandi Breen</h1>
             <!-- news block -->
             <STYLE type="text/css">
